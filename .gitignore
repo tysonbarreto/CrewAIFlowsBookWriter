@@ -1,0 +1,7 @@
+.amlignore
+.amlignore.amltmp
+.venv
+.env
+.logs
+.md
+.artifacts

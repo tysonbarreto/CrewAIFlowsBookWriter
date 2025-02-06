@@ -1,0 +1,17 @@
+[project]
+name = "CrewAIFlowBookWriter"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "", email = ""},
+]
+dependencies = []
+requires-python = "==3.11.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+[tool.pdm.build]
+package-dir = "src"
+
+[tool.pdm]
+distribution = false
